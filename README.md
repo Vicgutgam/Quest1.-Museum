@@ -23,11 +23,11 @@ The code is developed in a very linear way, following the initial inspiration, b
 
 
 <h3>Improvement plans:</h3>
-Development of an inventory with greater relevance in history.
+"""Development of an inventory with greater relevance in history.
 
 Inclusion of a clock that only allows playing during museum hours.
 
-Give the possibility of returning to past rooms.
+Give the possibility of returning to past rooms."""
 
 
 
