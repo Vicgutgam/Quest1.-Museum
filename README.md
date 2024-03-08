@@ -32,5 +32,5 @@ The code is developed in a very linear way, following the initial inspiration, b
 ·Give the possibility of returning to past rooms.
 
 
-##Collaborators:
+## Collaborators:
 Do you want to join the project? Just send a message.
