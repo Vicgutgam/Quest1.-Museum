@@ -20,9 +20,6 @@ It is currently in a very primitive state and only includes a few functions rela
 The code is developed in a very linear way, following the initial inspiration, but it already has some dictionaries introduced that I hope can be completed over time.
 
 
-
-
-
 ## Improvement plans:
 
 ·Development of an inventory with greater relevance in history.
